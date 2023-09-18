@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e938b9f1-33a5-4701-8786-4cd35afff88d/deploy-status)](https://app.netlify.com/sites/luminous-moonbeam-e9aef5/deploys)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
